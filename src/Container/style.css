@@ -1,0 +1,7 @@
+@media (max-width: 767px){
+}
+.container{
+max-width: 900px;
+padding: 20px;
+margin: 0 auto;
+}
